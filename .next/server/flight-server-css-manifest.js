@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/home/daniel/Documents/projects/landing page/app/page":["/home/daniel/Documents/projects/landing page/styles/globals.css"]},"/home/daniel/Documents/projects/landing page/app/layout.js":["/home/daniel/Documents/projects/landing page/styles/globals.css"]}
