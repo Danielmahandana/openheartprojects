@@ -14,12 +14,12 @@
   background-image: linear-gradient(
     270deg,
     hsl(167, 34%, 49%) 0%,
-    hsl(155, 57%, 72%) 26%,
-    hsl(167, 37%, 68%) 39%,
-    hsl(203, 56%, 78%) 50%,
-    hsl(215deg 77% 81%) 61%,
-    hsl(171, 39%, 47%) 74%,
-    hsl(210, 55%, 72%) 100%
+    hsl(155, 47%, 32%) 26%,
+    hsl(199, 46%, 43%) 39%,
+    hsl(202, 35%, 11%) 50%,
+    hsla(215, 48%, 34%, 0.678) 61%,
+    hsl(171, 59%, 19%) 74%,
+    hsl(210, 53%, 39%) 100%
   );
   filter: blur(125px);
 }
@@ -27,9 +27,9 @@
 .hero-gradient {
   background: linear-gradient(
     97.86deg,
-    #7fadccda 0%,
-    #34c7a7 53.65%,
-    #5eb683 100%
+    #081a27da 0%,
+    #0a442ea6 53.65%,
+    #a9bb8b 100%
   );
 }
 
@@ -40,16 +40,16 @@
   top: 0px;
   right: 0px;
 
-  background: #7aebfb;
+  background: #457379;
   filter: blur(190px);
 }
 
 .glassmorphism {
-  background: rgba(255, 255, 255, 0.25);
+  background: rgba(124, 163, 235, 0.25);
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
-  border: 1px solid rgba(255, 255, 255, 0.18);
+  border: 1px solid rgba(175, 150, 216, 0.733);
 }
 
 .gradient-03 {

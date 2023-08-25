@@ -22,13 +22,14 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className="font-extrabold text-white">Open Heart</span> Brief overview of OpenHeart as a visionary startup at the intersection of blockchain and deep learning technologies{' '}
+        <span className="font-extrabold text-white">Open Heart</span>Projects pushes the boundaries of innovation.
+        We invite you to join us on this journey of redefining industries through the fusion of Machine Learning and Blockchain.{' '}
         <span className="font-extrabold text-white">
-          Unveiling OpenHeart: Where Blockchain and Deep Learning Converge for Breakthroughs
+        Together, we are creating a future where technology not only adapts to our needs but also anticipates them. Become a part of our transformative mission
         </span>{' '}
-        of today, using only{' '}
-        <span className="font-extrabold text-white">VR</span> Empowering Researchers and Transforming Medical Diagnosis through Innovation{' '}
-        <span className="font-extrabold text-white">explore</span> More about our projects by scrolling down
+        today.{' '}
+        <span className="font-extrabold text-white"></span> 🌟 Innovate with OpenHeart Projects: Shaping Tomorrow, Today 🌟{' '}
+        <span className="font-extrabold text-white">explore</span> Our projects down below.
       </motion.p>
 
       <motion.img
